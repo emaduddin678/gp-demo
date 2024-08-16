@@ -1,9 +1,19 @@
-# React + Vite
+# React Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A react template installed with Vite+React, Tailwind Css, React Router Dom with router set up.
 
-Currently, two official plugins are available:
+## 🛠️ How to Works
+To clone this template just copy and paste the cli in terminal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# vite-React-Tailwind-Router-dom
+```bash
+  git clone https://github.com/emaduddin678/vite-React-Tailwind-Router-dom.git
+```
+```bash
+   cd vite-React-Tailwind-Router-dom
+```
+```bash
+   npm install
+```
+```bash
+   npm run dev
+```
